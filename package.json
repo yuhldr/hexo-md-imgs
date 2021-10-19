@@ -1,0 +1,12 @@
+{
+    "name": "hexo-md-imgs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["hexo中，在`source/images`里放图片，markdown引用路径为`../images/*.png`或者`/source/images/*.png`，但是这样编译出来，图片路径是不对的，这个插件修改一下"],
+    "author": "yuhldr",
+    "license": "ISC"
+}
